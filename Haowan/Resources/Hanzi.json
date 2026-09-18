@@ -1,0 +1,212 @@
+[
+  {
+    "hanzi": "这(这儿)",
+    "pinyin": "zhè",
+    "meaning": "this",
+    "mnemonic_history": "The character combines the radical 辶 (walk) and 文 (language/script). Mnemonic: Walking over to point at *this* specific text."
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "meaning": "I, me",
+    "mnemonic_history": "Originally an oracle bone pictogram depicting a saw-toothed weapon or rake. Over time, it was borrowed for the pronoun 'I'. Mnemonic: 'I' hold my weapon to defend myself."
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "women",
+    "meaning": "we, us",
+    "mnemonic_history": "Combines 我 (I/me) with the plural marker 们 (men). 们 uses the person radical (亻) and door (门) for sound. Mnemonic: A group of people (亻) walking through a door (门) together makes 'us'."
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaning": "you",
+    "mnemonic_history": "Combines the person radical 亻 and 尔 (ěr), which originally meant a loom but was borrowed for sound/meaning. Mnemonic: A *person* (亻) looking directly at *you*."
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaning": "he, him",
+    "mnemonic_history": "Combines the person radical 亻 and 也 (yě), meaning 'also'. Mnemonic: That *person* over there is *also* a guy (he)."
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "meaning": "she, her",
+    "mnemonic_history": "Combines the female radical 女 (nǚ) and 也 (yě), which means 'also'. Mnemonic: That female (女) is also (也) someone (she/her)."
+  },
+  {
+    "hanzi": "那(那儿)",
+    "pinyin": "nà (nàr)",
+    "meaning": "that (there)",
+    "mnemonic_history": "The right side 阝 represents a city or place. Mnemonic: Pointing out a specific place or thing over *there*."
+  },
+  {
+    "hanzi": "哪",
+    "pinyin": "nă",
+    "meaning": "which",
+    "mnemonic_history": "Adds the mouth radical 口 (kǒu) to 那 (that). Mnemonic: Using your mouth to ask *which* one of those things you are talking about."
+  },
+  {
+    "hanzi": "哪儿",
+    "pinyin": "năr",
+    "meaning": "where",
+    "mnemonic_history": "Combines 哪 (which) and 儿 (suffix). Mnemonic: Asking 'which place' to find out *where* something is."
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "meaning": "who",
+    "mnemonic_history": "Contains the speech radical 讠 and 隹 (short-tailed bird). Mnemonic: Trying to figure out *who* is speaking to the bird."
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "meaning": "what",
+    "mnemonic_history": "什 originally meant a group of ten, and 么 is a suffix. Mnemonic: Looking at ten people gathered and asking, 'What are they doing?'"
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duōshǎo",
+    "meaning": "how many, how much",
+    "mnemonic_history": "A literal combination of 多 (many) and 少 (few). Mnemonic: Is the amount many or few? Asking *how much*."
+  },
+  {
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "meaning": "a few, how many",
+    "mnemonic_history": "Originally depicted a small, low table. Mnemonic: Asking *how many* items you can fit onto this small table."
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "how",
+    "mnemonic_history": "怎 contains the heart radical 心 at the bottom. Mnemonic: Feeling in your heart a sense of wonder about *how* something happened."
+  },
+  {
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "how about",
+    "mnemonic_history": "Combines 怎么 (how) and 样 (appearance/shape). Mnemonic: Asking *how* that shape or idea looks to you, as in 'how about it?'"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "meaning": "one",
+    "mnemonic_history": "A simple pictograph. Mnemonic: A single horizontal line representing the number *one*."
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "meaning": "two",
+    "mnemonic_history": "A simple pictograph. Mnemonic: Two horizontal lines representing the number *two*."
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "meaning": "three",
+    "mnemonic_history": "A simple pictograph. Mnemonic: Three horizontal lines representing the number *three*."
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "meaning": "four",
+    "mnemonic_history": "Looks like a mouth or enclosure 口 with lines inside. Mnemonic: Four curtains drawn inside a square window."
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wŭ",
+    "meaning": "five",
+    "mnemonic_history": "Originally written as criss-crossing lines in ancient Chinese to signify the number five. Mnemonic: Two lines crossing over the top and bottom borders."
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "meaning": "six",
+    "mnemonic_history": "Looks like a person with arms outstretched. Mnemonic: A person trying to carry *six* heavy bags at once."
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "meaning": "eight",
+    "mnemonic_history": "Two lines splitting away from each other. Mnemonic: Dividing something into *eight* pieces."
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiŭ",
+    "meaning": "nine",
+    "mnemonic_history": "Looks like a hook or an arm. Mnemonic: Reaching your arm out to grab the *ninth* item."
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "meaning": "ten",
+    "mnemonic_history": "A vertical line crossing a horizontal line. Mnemonic: A cross pointing in all *ten* directions (including up and down)."
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "meaning": "(for normal objects)",
+    "mnemonic_history": "Contains the person radical 人 (rén) above a vertical stick 丨 (gǔn). Mnemonic: A single person standing like a stick, representing one individual unit."
+  },
+  {
+    "hanzi": "岁",
+    "pinyin": "sui",
+    "meaning": "(for age)",
+    "mnemonic_history": "Originally composed of elements meaning Jupiter (the year star) and foot (movement). Mnemonic: Counting the passing years to measure age."
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "meaning": "(for books)",
+    "mnemonic_history": "A tree 木 (mù) with a line at the bottom indicating the root. Mnemonic: Books are bound at their root (spine) and made from trees."
+  },
+  {
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "meaning": "some",
+    "mnemonic_history": "Combines 此 (this) and 二 (two). Mnemonic: Taking 'these two' steps to gather *some* extra items."
+  },
+  {
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "meaning": "piece, chunk",
+    "mnemonic_history": "Contains the earth radical 土 (tǔ). Mnemonic: Grabbing a *chunk* or *piece* of solid earth."
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "meaning": "no",
+    "mnemonic_history": "An ancient pictogram of a bird flying away toward the sky, later symbolizing negation. Mnemonic: The bird says *no* and flies away."
+  },
+  {
+    "hanzi": "没",
+    "pinyin": "méi",
+    "meaning": "no",
+    "mnemonic_history": "Contains the water radical 氵 (shuǐ) and a weapon/action radical 殳 (shū). Mnemonic: Dropping your weapon into the water—now you have *no* weapon."
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "meaning": "quite, very",
+    "mnemonic_history": "Combines a step 彳 (chì) and tough 艮 (gěn). Mnemonic: Taking a step that is *very* tough to make."
+  },
+  {
+    "hanzi": "太",
+    "pinyin": "tài",
+    "meaning": "too",
+    "mnemonic_history": "Combines 大 (big) and an extra dot 丶 (diǎn). Mnemonic: It’s already big, but you added a dot—now it's *too* big."
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "meaning": "all",
+    "mnemonic_history": "Combines 者 (person/thing) and 阝 (city). Mnemonic: *All* the people gathering in the capital city."
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "yīdiǎnr",
+    "meaning": "a little bit",
+    "mnemonic_history": "Literally translates to one (一) dot (点) plus the suffix (儿). Mnemonic: Just a single tiny dot, meaning *a little bit*."
+  }
+]
